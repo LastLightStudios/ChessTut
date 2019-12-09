@@ -1,0 +1,1560 @@
+﻿Log file open, 12/07/19 18:19:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ChessTutorial
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.104764
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.07-23.19.27:488][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.07-23.19.27:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:489][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:497][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.07-23.19.27:497][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.07-23.19.27:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.07-23.19.27:498][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.07-23.19.27:498][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.07-23.19.27:501][  0]LogHAL: Display: Platform has ~ 16 GB [17017741312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.07-23.19.27:501][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.07-23.19.27:501][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.07-23.19.27:501][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Scalability.ini]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.07-23.19.27:502][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Config/Windows/Engine.ini]
+[2019.12.07-23.19.27:503][  0]LogInit: Computer: DESKTOP-U6O29LI
+[2019.12.07-23.19.27:503][  0]LogInit: User: ndliu
+[2019.12.07-23.19.27:503][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.07-23.19.27:503][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.07-23.19.27:503][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.12.07-23.19.27:503][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.07-23.19.27:503][  0]LogMemory: Process Physical Memory: 100.15 MB used, 100.16 MB peak
+[2019.12.07-23.19.27:503][  0]LogMemory: Process Virtual Memory: 88.12 MB used, 88.12 MB peak
+[2019.12.07-23.19.27:503][  0]LogMemory: Physical Memory: 7781.18 MB used,  8448.20 MB free, 16229.38 MB total
+[2019.12.07-23.19.27:503][  0]LogMemory: Virtual Memory: 4629.13 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.12.07-23.19.27:506][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.07-23.19.27:539][  0]LogInit: Using OS detected language (en-US).
+[2019.12.07-23.19.27:539][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.07-23.19.27:541][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.07-23.19.27:746][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.07-23.19.27:793][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.07-23.19.27:793][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.07-23.19.28:021][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.07-23.19.28:021][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.07-23.19.28:099][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.12.07-23.19.28:099][  0]LogD3D11RHI:       2988/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.07-23.19.28:108][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.12.07-23.19.28:108][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.07-23.19.28:111][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.07-23.19.28:111][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.07-23.19.28:111][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.07-23.19.28:119][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.07-23.19.28:119][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.07-23.19.28:119][  0]LogWindows: EnumDisplayDevices:
+[2019.12.07-23.19.28:120][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.12.07-23.19.28:120][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.12.07-23.19.28:121][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.12.07-23.19.28:122][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.12.07-23.19.28:122][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.07-23.19.28:123][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.07-23.19.28:123][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.07-23.19.28:124][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.07-23.19.28:124][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.12.07-23.19.28:124][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.07-23.19.28:124][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.07-23.19.28:124][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.12.07-23.19.28:176][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.07-23.19.28:189][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.07-23.19.28:679][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.07-23.19.28:690][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.07-23.19.28:702][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.07-23.19.28:713][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.07-23.19.28:725][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.07-23.19.28:737][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.07-23.19.28:750][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.07-23.19.28:761][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.07-23.19.28:768][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.07-23.19.28:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.07-23.19.28:807][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.07-23.19.28:828][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.07-23.19.28:828][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.07-23.19.28:844][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.07-23.19.28:844][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.07-23.19.28:852][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.07-23.19.28:860][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.07-23.19.28:868][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.07-23.19.28:877][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.07-23.19.28:906][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.07-23.19.28:906][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.07-23.19.28:906][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.07-23.19.28:920][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.07-23.19.29:004][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Intermediate/Shaders/WorkingDirectory/16232/).
+[2019.12.07-23.19.29:004][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ndliu/AppData/Local/Temp/UnrealShaderWorkingDir/0E52652D4919CEBBFC2050A065053FC4/'.
+[2019.12.07-23.19.29:009][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.07-23.19.29:009][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.07-23.19.29:009][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.07-23.19.29:698][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.07-23.19.29:751][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/ndliu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.07-23.19.29:751][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ndliu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.07-23.19.29:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.07-23.19.29:751][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.07-23.19.29:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.07-23.19.29:751][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.07-23.19.29:764][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.07-23.19.29:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.07-23.19.29:764][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.07-23.19.29:765][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ndliu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.07-23.19.29:765][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.07-23.19.29:765][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.07-23.19.29:788][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.07-23.19.29:791][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.07-23.19.29:792][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.07-23.19.29:868][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2019.12.07-23.19.30:147][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.07-23.19.30:320][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.07-23.19.30:320][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.07-23.19.30:320][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.07-23.19.30:320][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.07-23.19.30:320][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.07-23.19.30:331][  0]LogNetVersion: ChessTutorial 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 755123958)
+[2019.12.07-23.19.30:777][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.040453 seconds
+[2019.12.07-23.19.30:784][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.07-23.19.30:784][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.07-23.19.30:784][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.07-23.19.31:929][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.07-23.19.31:932][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.07-23.19.31:991][  0]SourceControl: Source control is disabled
+[2019.12.07-23.19.31:991][  0]SourceControl: Source control is disabled
+[2019.12.07-23.19.31:993][  0]SourceControl: Source control is disabled
+[2019.12.07-23.19.31:994][  0]SourceControl: Source control is disabled
+[2019.12.07-23.19.32:094][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.07-23.19.32:479][  0]LogOcInput: OculusInput pre-init called
+[2019.12.07-23.19.32:486][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.07-23.19.32:486][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.07-23.19.32:570][  0]LogEngine: Initializing Engine...
+[2019.12.07-23.19.32:571][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.07-23.19.32:572][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.07-23.19.32:813][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.07-23.19.32:838][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.07-23.19.32:991][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.19.33:024][  0]LogInit: FAudioDevice initialized.
+[2019.12.07-23.19.33:025][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.07-23.19.33:116][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/ndliu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.07-23.19.33:119][  0]LogInit: Texture streaming: Enabled
+[2019.12.07-23.19.33:157][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.07-23.19.33:213][  0]LogInit: Transaction tracking system initialized
+[2019.12.07-23.19.33:273][  0]BlueprintLog: New page: Editor Load
+[2019.12.07-23.19.33:415][  0]LocalizationService: Localization service is disabled
+[2019.12.07-23.19.33:679][  0]LogFileCache: Scanning file cache for directory 'D:/D Drive/Programming/Unreal Repos/ChessTutorial/Content/' took 0.00s
+[2019.12.07-23.19.33:679][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.07-23.19.33:679][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.07-23.19.33:912][  0]SourceControl: Source control is disabled
+[2019.12.07-23.19.33:913][  0]Cmd: MAP LOAD FILE="../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.07-23.19.33:913][  0]LightingResults: New page: Lighting Build
+[2019.12.07-23.19.33:918][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.19.33:918][  0]MapCheck: New page: Map Check
+[2019.12.07-23.19.33:918][  0]LightingResults: New page: Lighting Build
+[2019.12.07-23.19.33:942][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.12.07-23.19.34:058][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.12.07-23.19.34:063][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.12.07-23.19.34:122][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.19.34:157][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.07-23.19.34:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.07-23.19.34:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.07-23.19.34:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2019.12.07-23.19.34:183][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.271
+[2019.12.07-23.19.34:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.19.34:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.19.34:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.19.34:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.19.34:334][  0]LogCollectionManager: Loaded 0 collections in 0.004218 seconds
+[2019.12.07-23.19.34:342][  0]LogFileCache: Scanning file cache for directory 'D:/D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Collections/' took 0.00s
+[2019.12.07-23.19.34:342][  0]LogFileCache: Scanning file cache for directory 'D:/D Drive/Programming/Unreal Repos/ChessTutorial/Content/Developers/ndliu/Collections/' took 0.00s
+[2019.12.07-23.19.34:342][  0]LogFileCache: Scanning file cache for directory 'D:/D Drive/Programming/Unreal Repos/ChessTutorial/Content/Collections/' took 0.00s
+[2019.12.07-23.19.34:342][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.07-23.19.34:351][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2863 classes and 680 folders.
+[2019.12.07-23.19.34:374][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.07-23.19.34:462][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.07-23.19.34:473][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.07-23.19.34:544][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.07-23.19.34:547][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.07-23.19.34:551][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.07-23.19.34:624][  0]LogRenderer: Reallocating scene render targets to support 1120x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.07-23.19.34:716][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.07-23.19.34:781][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.07-23.19.34:781][  0]LogLoad: (Engine Initialization) Total time: 9.62 seconds
+[2019.12.07-23.19.34:781][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.07-23.19.34:832][  0]LogAssetRegistry: Asset discovery search completed in 4.9646 seconds
+[2019.12.07-23.19.34:836][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.07-23.19.34:837][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.12.07-23.19.34:838][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.07-23.19.35:808][ 99]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.07-23.19.38:289][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.19.38:407][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/chessboard.chessboard
+[2019.12.07-23.19.38:655][404]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.07-23.19.39:565][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewGameMode.NewGameMode
+[2019.12.07-23.19.39:879][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewPlayerController.NewPlayerController
+[2019.12.07-23.19.40:214][404]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.07-23.19.40:264][405]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.07-23.22.51:726][894]LogSlate: Window 'NewPlayerController' being destroyed
+[2019.12.07-23.22.54:885][271]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.30.30:604][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.07-23.30.30:604][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.053
+[2019.12.07-23.30.30:607][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/chessboard] ([1] browsable assets)...
+[2019.12.07-23.30.30:607][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/chessboard]
+[2019.12.07-23.30.30:607][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chessboard" FILE="../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/chessboard_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.12.07-23.30.30:647][398]LogSavePackage: Moving '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/chessboard_Auto1F3ECBE12402323892B068E88C808658C.tmp' to '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/chessboard_Auto1.uasset'
+[2019.12.07-23.30.30:648][398]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.12.07-23.36.27:443][926]BlueprintLog: New page: Collapse to Macro
+[2019.12.07-23.37.21:681][395]BlueprintLog: New page: Compile chessboard
+[2019.12.07-23.37.21:970][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.07-23.37.24:186][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.37.24:262][632]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.37.24:274][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.37.24:275][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.37.24:275][632]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:37:24 PM)
+[2019.12.07-23.37.24:276][632]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.07-23.37.24:277][632]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.37.24:284][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007186s)
+[2019.12.07-23.37.24:285][632]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.37.24:286][632]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2019.12.07-23.37.24:286][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008665s)
+[2019.12.07-23.37.24:325][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.07-23.37.24:438][632]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.37.24:466][632]LogInit: FAudioDevice initialized.
+[2019.12.07-23.37.24:477][632]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.37.24:481][632]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.37.24
+[2019.12.07-23.37.24:481][632]LogWorld: Bringing up level for play took: 0.003624
+[2019.12.07-23.37.24:482][632]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.07-23.37.24:497][632]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.07-23.37.24:497][632]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.37.24:497][632]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.37.24:497][632]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.37.24:498][632]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.37.24:498][632]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.237
+[2019.12.07-23.37.24:499][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.37.25:734][735]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_5
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.37.25:734][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.37.29:605][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.37.29:697][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.37.29:699][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.37.29:699][207]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.37.29:699][207]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.37.29:717][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.37.29:717][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.37.29:761][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.37.29:792][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.07-23.37.29:826][208]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.07-23.37.39:474][183]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.37.39:479][183]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.37.50:103][444]LogEditorViewport: Clicking on Actor (LMB): chessboard_C (chessboard)
+[2019.12.07-23.37.51:756][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.37.52:545][695]BlueprintLog: New page: Compile NewPlayerController
+[2019.12.07-23.37.52:783][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.07-23.37.53:742][806]BlueprintLog: New page: Compile chessboard
+[2019.12.07-23.37.54:041][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.07-23.37.55:774][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.37.55:787][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.37.55:787][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.37.55:787][980]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:37:55 PM)
+[2019.12.07-23.37.55:787][980]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.37.55:794][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006742s)
+[2019.12.07-23.37.55:796][980]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.37.55:796][980]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2019.12.07-23.37.55:796][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008614s)
+[2019.12.07-23.37.55:839][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.07-23.37.55:946][980]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.37.55:966][980]LogInit: FAudioDevice initialized.
+[2019.12.07-23.37.55:973][980]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.37.55:977][980]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.37.55
+[2019.12.07-23.37.55:978][980]LogWorld: Bringing up level for play took: 0.003557
+[2019.12.07-23.37.55:978][980]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.07-23.37.55:979][980]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.37.55:980][980]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.37.55:980][980]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.37.55:980][980]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.37.55:980][980]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.281
+[2019.12.07-23.37.55:980][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.37.57:942][211]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_5
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.37.57:942][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.38.00:233][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.38.00:342][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.38.00:343][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.38.00:343][498]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.38.00:343][498]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.38.00:360][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.38.00:360][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.38.00:405][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.38.00:409][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.07-23.38.00:442][499]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.07-23.38.14:520][928]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.38.14:525][928]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.39.09:109][720]LogEditorViewport: Clicking on Actor (LMB): chessboard_C (chessboard)
+[2019.12.07-23.39.10:289][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.39.11:581][974]Cmd: DELETE
+[2019.12.07-23.39.11:581][974]Cmd: ACTOR DELETE
+[2019.12.07-23.39.11:584][974]LogEditorActor: Deleted Actor: chessboard_C
+[2019.12.07-23.39.11:626][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.07-23.39.11:627][974]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.12.07-23.39.14:617][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.39.20:949][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.07-23.39.21:738][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.39.21:805][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.39.21:830][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.39.21:831][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.39.21:831][ 31]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:39:21 PM)
+[2019.12.07-23.39.21:831][ 31]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.39.21:839][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008023s)
+[2019.12.07-23.39.21:840][ 31]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.39.21:840][ 31]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2019.12.07-23.39.21:840][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009471s)
+[2019.12.07-23.39.21:883][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.07-23.39.21:993][ 31]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.39.22:022][ 31]LogInit: FAudioDevice initialized.
+[2019.12.07-23.39.22:033][ 31]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.39.22:037][ 31]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.39.22
+[2019.12.07-23.39.22:038][ 31]LogWorld: Bringing up level for play took: 0.003765
+[2019.12.07-23.39.22:038][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.07-23.39.22:040][ 31]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.39.22:040][ 31]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.39.22:040][ 31]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.39.22:040][ 31]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.39.22:040][ 31]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.221
+[2019.12.07-23.39.22:041][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.39.23:702][225]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.39.23:702][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.39.25:901][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.39.25:986][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.39.25:986][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.39.25:986][498]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.39.25:987][498]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.39.26:001][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.39.26:001][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.39.26:045][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.39.26:050][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.07-23.39.26:092][500]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.07-23.39.40:464][673]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.39.40:467][673]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.40.42:022][598]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2019.12.07-23.40.45:698][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.40.46:863][167]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.40.46:876][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.40.46:876][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.40.46:876][167]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:40:46 PM)
+[2019.12.07-23.40.46:876][167]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.40.46:883][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006824s)
+[2019.12.07-23.40.46:884][167]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.40.46:884][167]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2019.12.07-23.40.46:884][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008271s)
+[2019.12.07-23.40.46:917][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.07-23.40.47:023][167]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.40.47:043][167]LogInit: FAudioDevice initialized.
+[2019.12.07-23.40.47:055][167]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.40.47:059][167]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.40.47
+[2019.12.07-23.40.47:060][167]LogWorld: Bringing up level for play took: 0.003853
+[2019.12.07-23.40.47:060][167]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.07-23.40.47:062][167]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.40.47:062][167]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.40.47:062][167]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.40.47:063][167]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.40.47:063][167]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.801
+[2019.12.07-23.40.47:063][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.40.48:776][366]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.40.48:776][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.40.57:389][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.40.57:484][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.40.57:485][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.40.57:485][360]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.40.57:485][360]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.40.57:510][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.40.57:510][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.40.57:556][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.40.57:561][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.07-23.40.57:593][361]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.07-23.41.08:946][465]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.41.08:950][465]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.41.43:030][465]BlueprintLog: New page: Compile chessboard
+[2019.12.07-23.41.43:332][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.12.07-23.41.45:296][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.41.45:309][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.45:309][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.41.45:309][658]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:41:45 PM)
+[2019.12.07-23.41.45:309][658]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.41.45:317][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007260s)
+[2019.12.07-23.41.45:318][658]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.41.45:318][658]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2019.12.07-23.41.45:318][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008465s)
+[2019.12.07-23.41.45:361][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.07-23.41.45:468][658]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.41.45:489][658]LogInit: FAudioDevice initialized.
+[2019.12.07-23.41.45:499][658]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.41.45:504][658]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.41.45
+[2019.12.07-23.41.45:505][658]LogWorld: Bringing up level for play took: 0.004653
+[2019.12.07-23.41.45:505][658]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.07-23.41.45:507][658]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.41.45:507][658]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.41.45:507][658]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.41.45:507][658]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.41.45:507][658]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.754
+[2019.12.07-23.41.45:507][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.47:322][871]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.41.47:323][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.41.47:323][871]LogBlueprintUserMessages: [chessboard_2] 27
+[2019.12.07-23.41.51:522][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.41.51:599][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.51:600][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.41.51:600][371]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.41.51:600][371]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.41.51:614][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.41.51:614][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.51:657][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.41.51:662][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.07-23.41.51:706][373]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.07-23.41.52:999][502]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.41.53:004][502]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.41.53:603][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.41.53:616][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.53:616][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.41.53:616][568]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:41:53 PM)
+[2019.12.07-23.41.53:616][568]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.41.53:623][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006173s)
+[2019.12.07-23.41.53:623][568]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.41.53:624][568]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2019.12.07-23.41.53:624][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007731s)
+[2019.12.07-23.41.53:664][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.07-23.41.53:777][568]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.41.53:798][568]LogInit: FAudioDevice initialized.
+[2019.12.07-23.41.53:804][568]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.41.53:808][568]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.41.53
+[2019.12.07-23.41.53:808][568]LogWorld: Bringing up level for play took: 0.003787
+[2019.12.07-23.41.53:808][568]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.07-23.41.53:810][568]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.41.53:810][568]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.41.53:810][568]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.41.53:810][568]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.41.53:811][568]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.451
+[2019.12.07-23.41.53:811][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.55:684][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.41.55:684][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.41.55:684][787]LogBlueprintUserMessages: [chessboard_2] 0
+[2019.12.07-23.41.57:362][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.41.57:438][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.57:438][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.41.57:438][997]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.41.57:439][997]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.41.57:448][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.41.57:448][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.57:491][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.41.57:497][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.12.07-23.41.57:543][999]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.07-23.41.58:376][ 77]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.41.58:380][ 77]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.41.58:974][145]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.41.58:986][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.41.58:987][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.41.58:987][145]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:41:58 PM)
+[2019.12.07-23.41.58:987][145]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.41.58:993][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006303s)
+[2019.12.07-23.41.58:994][145]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.41.58:995][145]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2019.12.07-23.41.58:995][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007953s)
+[2019.12.07-23.41.59:034][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.07-23.41.59:143][145]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.41.59:164][145]LogInit: FAudioDevice initialized.
+[2019.12.07-23.41.59:175][145]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.41.59:179][145]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.41.59
+[2019.12.07-23.41.59:179][145]LogWorld: Bringing up level for play took: 0.003629
+[2019.12.07-23.41.59:179][145]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.07-23.41.59:181][145]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.41.59:181][145]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.41.59:181][145]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.41.59:181][145]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.41.59:182][145]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.92
+[2019.12.07-23.41.59:182][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.42.00:746][328]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.42.00:746][328]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.42.00:746][328]LogBlueprintUserMessages: [chessboard_2] 8
+[2019.12.07-23.42.02:099][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.42.02:175][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.42.02:175][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.42.02:175][498]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.42.02:176][498]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.42.02:189][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.42.02:189][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.42.02:232][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.42.02:238][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.07-23.42.02:283][500]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.07-23.42.03:692][644]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.42.03:697][644]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.43.16:999][315]BlueprintLog: New page: Compile chessboard
+[2019.12.07-23.43.17:306][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.07-23.43.23:061][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.43.23:074][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.43.23:074][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.43.23:075][974]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:43:23 PM)
+[2019.12.07-23.43.23:075][974]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.43.23:082][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007002s)
+[2019.12.07-23.43.23:083][974]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.43.23:083][974]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2019.12.07-23.43.23:083][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008630s)
+[2019.12.07-23.43.23:125][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.07-23.43.23:240][974]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.43.23:260][974]LogInit: FAudioDevice initialized.
+[2019.12.07-23.43.23:270][974]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.43.23:274][974]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.43.23
+[2019.12.07-23.43.23:275][974]LogWorld: Bringing up level for play took: 0.003745
+[2019.12.07-23.43.23:275][974]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.07-23.43.23:277][974]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.43.23:277][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.43.23:277][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.43.23:277][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.43.23:277][974]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.016
+[2019.12.07-23.43.23:278][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.43.24:647][134]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.43.24:647][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.43.26:826][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.43.26:919][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.43.26:919][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.43.26:919][385]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.43.26:919][385]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.43.26:938][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.43.26:938][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.43.26:983][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.43.26:989][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.07-23.43.27:025][386]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.07-23.43.29:698][679]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.43.29:701][679]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.45.43:415][592]BlueprintLog: New page: Compile chessboard
+[2019.12.07-23.45.43:722][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.12.07-23.45.46:009][845]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.45.46:021][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.45.46:022][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.45.46:022][845]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:45:46 PM)
+[2019.12.07-23.45.46:022][845]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.45.46:029][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006609s)
+[2019.12.07-23.45.46:029][845]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.45.46:030][845]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2019.12.07-23.45.46:030][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007852s)
+[2019.12.07-23.45.46:071][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.07-23.45.46:181][845]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.45.46:202][845]LogInit: FAudioDevice initialized.
+[2019.12.07-23.45.46:213][845]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.45.46:217][845]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.45.46
+[2019.12.07-23.45.46:218][845]LogWorld: Bringing up level for play took: 0.004022
+[2019.12.07-23.45.46:218][845]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.07-23.45.46:220][845]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.45.46:220][845]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.45.46:220][845]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.45.46:220][845]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.45.46:220][845]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.041
+[2019.12.07-23.45.46:221][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.45.47:818][ 32]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.45.47:818][ 32]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.45.49:615][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.45.49:699][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.45.49:700][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.45.49:700][257]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.45.49:700][257]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.45.49:720][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.45.49:720][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.45.49:762][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.45.49:767][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.07-23.45.49:801][258]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.07-23.45.52:326][539]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.45.52:329][539]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.45.56:515][ 11]BlueprintLog: New page: Compile chessboard
+[2019.12.07-23.45.56:826][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2019.12.07-23.47.23:490][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.07-23.47.23:735][893]LogSavePackage: Moving '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Minimal_Default_Auto2175B0ACB426A13CFD6A7E595D8D8CEE4.tmp' to '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.12.07-23.47.23:737][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.292
+[2019.12.07-23.47.23:737][893]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2019.12.07-23.47.23:739][893]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/chessboard] ([1] browsable assets)...
+[2019.12.07-23.47.23:739][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/chessboard]
+[2019.12.07-23.47.23:739][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chessboard" FILE="../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/chessboard_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.07-23.47.23:774][893]LogSavePackage: Moving '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/chessboard_Auto27C1337A941F1423C6390D88BDC75C848.tmp' to '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/chessboard_Auto2.uasset'
+[2019.12.07-23.47.23:776][893]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.12.07-23.58.02:348][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.58.02:362][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.58.02:362][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.58.02:363][ 93]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:58:02 PM)
+[2019.12.07-23.58.02:363][ 93]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.58.02:370][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006781s)
+[2019.12.07-23.58.02:372][ 93]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.58.02:372][ 93]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2019.12.07-23.58.02:372][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009212s)
+[2019.12.07-23.58.02:409][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.12.07-23.58.02:520][ 93]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.58.02:542][ 93]LogInit: FAudioDevice initialized.
+[2019.12.07-23.58.02:553][ 93]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.58.02:557][ 93]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.58.02
+[2019.12.07-23.58.02:558][ 93]LogWorld: Bringing up level for play took: 0.004171
+[2019.12.07-23.58.02:558][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.07-23.58.02:560][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.58.02:560][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.58.02:560][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.58.02:561][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.58.02:561][ 93]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.3
+[2019.12.07-23.58.02:561][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.58.03:839][242]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.58.03:839][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.07-23.58.05:823][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.58.05:882][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.58.05:882][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.58.05:882][487]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.58.05:883][487]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.58.05:905][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.58.05:906][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.58.05:950][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.58.05:955][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.07-23.58.05:989][488]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.07-23.58.51:002][284]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.58.51:007][284]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.59.32:485][154]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.59.32:498][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.32:498][154]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.07-23.59.32:500][154]LogPlayLevel: [PlayLevel] Compiling chessboard before play...
+[2019.12.07-23.59.32:945][154]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.12.07-23.59.32:945][154]LogPlayLevel: PlayLevel: Blueprint regeneration took 446 ms (1 blueprints)
+[2019.12.07-23.59.32:945][154]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:59:32 PM)
+[2019.12.07-23.59.32:945][154]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.59.32:952][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006597s)
+[2019.12.07-23.59.32:953][154]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.59.32:953][154]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2019.12.07-23.59.32:953][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007768s)
+[2019.12.07-23.59.32:991][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.07-23.59.33:102][154]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.59.33:124][154]LogInit: FAudioDevice initialized.
+[2019.12.07-23.59.33:135][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.59.33:135][154]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.59.33:140][154]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.59.33
+[2019.12.07-23.59.33:140][154]LogWorld: Bringing up level for play took: 0.003856
+[2019.12.07-23.59.33:140][154]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.07-23.59.33:143][154]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.59.33:143][154]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.59.33:143][154]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.59.33:144][154]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.59.33:145][154]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.883
+[2019.12.07-23.59.33:145][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.33:183][155]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.07-23.59.34:847][338]LogSlate: Window 'ChessTutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.07-23.59.34:853][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.34:853][338]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.59.34:857][338]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.59.34:871][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.59.34:871][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.34:921][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.07-23.59.34:941][339]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.07-23.59.36:128][481]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.07-23.59.36:142][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.36:142][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-23.59.36:142][481]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 1:59:36 PM)
+[2019.12.07-23.59.36:142][481]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.59.36:149][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007342s)
+[2019.12.07-23.59.36:151][481]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.07-23.59.36:151][481]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2019.12.07-23.59.36:151][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008953s)
+[2019.12.07-23.59.36:192][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.07-23.59.36:300][481]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.07-23.59.36:321][481]LogInit: FAudioDevice initialized.
+[2019.12.07-23.59.36:331][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.07-23.59.36:331][481]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.07-23.59.36:335][481]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-18.59.36
+[2019.12.07-23.59.36:336][481]LogWorld: Bringing up level for play took: 0.004033
+[2019.12.07-23.59.36:336][481]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.07-23.59.36:338][481]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.59.36:338][481]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.07-23.59.36:338][481]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.59.36:339][481]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.07-23.59.36:340][481]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.079
+[2019.12.07-23.59.36:340][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.37:833][652]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.07-23.59.37:833][652]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material by Name
+[2019.12.07-23.59.39:048][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.07-23.59.39:140][806]LogSlate: Window 'ChessTutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.07-23.59.39:146][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.39:146][806]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.07-23.59.39:149][806]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.07-23.59.39:158][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.07-23.59.39:159][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.07-23.59.39:210][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.07-23.59.39:249][807]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.07-23.59.45:296][485]LogSlate: Window 'Message Log' being destroyed
+[2019.12.07-23.59.45:300][485]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-00.00.09:139][242]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.00.09:155][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.09:155][242]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-00.00.09:157][242]LogPlayLevel: [PlayLevel] Compiling chessboard before play...
+[2019.12.08-00.00.09:600][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.12.08-00.00.09:600][242]LogPlayLevel: PlayLevel: Blueprint regeneration took 446 ms (1 blueprints)
+[2019.12.08-00.00.09:601][242]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 2:00:09 PM)
+[2019.12.08-00.00.09:601][242]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.08-00.00.09:608][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006972s)
+[2019.12.08-00.00.09:609][242]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.08-00.00.09:609][242]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2019.12.08-00.00.09:609][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008384s)
+[2019.12.08-00.00.09:649][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.08-00.00.09:756][242]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.00.09:779][242]LogInit: FAudioDevice initialized.
+[2019.12.08-00.00.09:788][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.00.09:788][242]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.08-00.00.09:792][242]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-19.00.09
+[2019.12.08-00.00.09:793][242]LogWorld: Bringing up level for play took: 0.003937
+[2019.12.08-00.00.09:793][242]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.08-00.00.09:795][242]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.08-00.00.09:795][242]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.08-00.00.09:795][242]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.08-00.00.09:796][242]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.08-00.00.09:797][242]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.535
+[2019.12.08-00.00.09:797][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.12:066][505]LogSlate: Window 'ChessTutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.08-00.00.12:072][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.12:072][505]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.08-00.00.12:072][505]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-00.00.12:089][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.00.12:089][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.12:142][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.12.08-00.00.12:163][506]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.08-00.00.13:389][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.00.13:401][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.13:401][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.00.13:401][653]PIE: New page: PIE session: Minimal_Default (Dec 7, 2019, 2:00:13 PM)
+[2019.12.08-00.00.13:402][653]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.08-00.00.13:409][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007272s)
+[2019.12.08-00.00.13:410][653]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.08-00.00.13:410][653]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2019.12.08-00.00.13:410][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008627s)
+[2019.12.08-00.00.13:450][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.08-00.00.13:559][653]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.00.13:579][653]LogInit: FAudioDevice initialized.
+[2019.12.08-00.00.13:588][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.00.13:588][653]LogLoad: Game class is 'NewGameMode_C'
+[2019.12.08-00.00.13:592][653]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.07-19.00.13
+[2019.12.08-00.00.13:593][653]LogWorld: Bringing up level for play took: 0.004053
+[2019.12.08-00.00.13:593][653]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.08-00.00.13:596][653]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.08-00.00.13:596][653]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.08-00.00.13:596][653]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.08-00.00.13:596][653]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.08-00.00.13:598][653]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.664
+[2019.12.08-00.00.13:598][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.14:786][792]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Click:017D
+[2019.12.08-00.00.14:786][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  chessboard Function:  Click Graph:  Click Node:  Set Material
+[2019.12.08-00.00.15:656][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.00.15:739][904]LogSlate: Window 'ChessTutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.08-00.00.15:745][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.15:745][904]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.08-00.00.15:749][904]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-00.00.15:761][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.00.15:761][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.08-00.00.15:813][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.08-00.00.15:852][905]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.08-00.00.27:423][287]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-00.00.27:430][287]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-00.01.41:335][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.08-00.01.41:677][138]LogSavePackage: Moving '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Minimal_Default_Auto33D70C0204AE46AA7897A6A87604AD7D7.tmp' to '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2019.12.08-00.01.41:680][138]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.392
+[2019.12.08-00.01.41:680][138]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.392
+[2019.12.08-00.01.41:681][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/chessboard] ([1] browsable assets)...
+[2019.12.08-00.01.41:681][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/chessboard]
+[2019.12.08-00.01.41:681][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chessboard" FILE="../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/chessboard_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.12.08-00.01.41:736][138]LogSavePackage: Moving '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/chessboard_Auto360586A0A47D1E07923B8559FE53F865A.tmp' to '../../../../../D Drive/Programming/Unreal Repos/ChessTutorial/Saved/Autosaves/Game/chessboard_Auto3.uasset'
+[2019.12.08-00.01.41:742][138]LogFileHelpers: Auto-saving content packages took 0.061
+[2019.12.08-00.03.42:365][102]BlueprintLog: New page: Compile chessboard
+[2019.12.08-00.03.42:392][102]LogBlueprintUserMessages: [chessboard_C_0] 2304
+[2019.12.08-00.03.42:393][102]LogBlueprintUserMessages: [chessboard_C_0] 2305
+[2019.12.08-00.03.42:393][102]LogBlueprintUserMessages: [chessboard_C_0] 2306
+[2019.12.08-00.03.42:393][102]LogBlueprintUserMessages: [chessboard_C_0] 2307
+[2019.12.08-00.03.42:394][102]LogBlueprintUserMessages: [chessboard_C_0] 2308
+[2019.12.08-00.03.42:394][102]LogBlueprintUserMessages: [chessboard_C_0] 2309
+[2019.12.08-00.03.42:394][102]LogBlueprintUserMessages: [chessboard_C_0] 2310
+[2019.12.08-00.03.42:394][102]LogBlueprintUserMessages: [chessboard_C_0] 2311
+[2019.12.08-00.03.42:395][102]LogBlueprintUserMessages: [chessboard_C_0] 2312
+[2019.12.08-00.03.42:395][102]LogBlueprintUserMessages: [chessboard_C_0] 2313
+[2019.12.08-00.03.42:395][102]LogBlueprintUserMessages: [chessboard_C_0] 2314
+[2019.12.08-00.03.42:395][102]LogBlueprintUserMessages: [chessboard_C_0] 2315
+[2019.12.08-00.03.42:396][102]LogBlueprintUserMessages: [chessboard_C_0] 2316
+[2019.12.08-00.03.42:396][102]LogBlueprintUserMessages: [chessboard_C_0] 2317
+[2019.12.08-00.03.42:396][102]LogBlueprintUserMessages: [chessboard_C_0] 2318
+[2019.12.08-00.03.42:396][102]LogBlueprintUserMessages: [chessboard_C_0] 2319
+[2019.12.08-00.03.42:397][102]LogBlueprintUserMessages: [chessboard_C_0] 2320
+[2019.12.08-00.03.42:397][102]LogBlueprintUserMessages: [chessboard_C_0] 2321
+[2019.12.08-00.03.42:397][102]LogBlueprintUserMessages: [chessboard_C_0] 2322
+[2019.12.08-00.03.42:398][102]LogBlueprintUserMessages: [chessboard_C_0] 2323
+[2019.12.08-00.03.42:398][102]LogBlueprintUserMessages: [chessboard_C_0] 2324
+[2019.12.08-00.03.42:398][102]LogBlueprintUserMessages: [chessboard_C_0] 2325
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2326
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2327
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2328
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2329
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2330
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2331
+[2019.12.08-00.03.42:399][102]LogBlueprintUserMessages: [chessboard_C_0] 2332
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2333
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2334
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2335
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2336
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2337
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2338
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2339
+[2019.12.08-00.03.42:400][102]LogBlueprintUserMessages: [chessboard_C_0] 2340
+[2019.12.08-00.03.42:401][102]LogBlueprintUserMessages: [chessboard_C_0] 2341
+[2019.12.08-00.03.42:401][102]LogBlueprintUserMessages: [chessboard_C_0] 2342
+[2019.12.08-00.03.42:401][102]LogBlueprintUserMessages: [chessboard_C_0] 2343
+[2019.12.08-00.03.42:401][102]LogBlueprintUserMessages: [chessboard_C_0] 2344
+[2019.12.08-00.03.42:401][102]LogBlueprintUserMessages: [chessboard_C_0] 2345
+[2019.12.08-00.03.42:401][102]LogBlueprintUserMessages: [chessboard_C_0] 2346
+[2019.12.08-00.03.42:402][102]LogBlueprintUserMessages: [chessboard_C_0] 2347
+[2019.12.08-00.03.42:402][102]LogBlueprintUserMessages: [chessboard_C_0] 2348
+[2019.12.08-00.03.42:402][102]LogBlueprintUserMessages: [chessboard_C_0] 2349
+[2019.12.08-00.03.42:402][102]LogBlueprintUserMessages: [chessboard_C_0] 2350
+[2019.12.08-00.03.42:402][102]LogBlueprintUserMessages: [chessboard_C_0] 2351
+[2019.12.08-00.03.42:403][102]LogBlueprintUserMessages: [chessboard_C_0] 2352
+[2019.12.08-00.03.42:403][102]LogBlueprintUserMessages: [chessboard_C_0] 2353
+[2019.12.08-00.03.42:403][102]LogBlueprintUserMessages: [chessboard_C_0] 2354
+[2019.12.08-00.03.42:403][102]LogBlueprintUserMessages: [chessboard_C_0] 2355
+[2019.12.08-00.03.42:403][102]LogBlueprintUserMessages: [chessboard_C_0] 2356
+[2019.12.08-00.03.42:404][102]LogBlueprintUserMessages: [chessboard_C_0] 2357
+[2019.12.08-00.03.42:404][102]LogBlueprintUserMessages: [chessboard_C_0] 2358
+[2019.12.08-00.03.42:404][102]LogBlueprintUserMessages: [chessboard_C_0] 2359
+[2019.12.08-00.03.42:404][102]LogBlueprintUserMessages: [chessboard_C_0] 2360
+[2019.12.08-00.03.42:404][102]LogBlueprintUserMessages: [chessboard_C_0] 2361
+[2019.12.08-00.03.42:405][102]LogBlueprintUserMessages: [chessboard_C_0] 2362
+[2019.12.08-00.03.42:405][102]LogBlueprintUserMessages: [chessboard_C_0] 2363
+[2019.12.08-00.03.42:405][102]LogBlueprintUserMessages: [chessboard_C_0] 2364
+[2019.12.08-00.03.42:405][102]LogBlueprintUserMessages: [chessboard_C_0] 2365
+[2019.12.08-00.03.42:406][102]LogBlueprintUserMessages: [chessboard_C_0] 2366
+[2019.12.08-00.03.42:406][102]LogBlueprintUserMessages: [chessboard_C_0] 2367
+[2019.12.08-00.03.42:414][102]LogBlueprintUserMessages: [chessboard_2] 1920
+[2019.12.08-00.03.42:414][102]LogBlueprintUserMessages: [chessboard_2] 1921
+[2019.12.08-00.03.42:415][102]LogBlueprintUserMessages: [chessboard_2] 1922
+[2019.12.08-00.03.42:415][102]LogBlueprintUserMessages: [chessboard_2] 1923
+[2019.12.08-00.03.42:415][102]LogBlueprintUserMessages: [chessboard_2] 1924
+[2019.12.08-00.03.42:415][102]LogBlueprintUserMessages: [chessboard_2] 1925
+[2019.12.08-00.03.42:416][102]LogBlueprintUserMessages: [chessboard_2] 1926
+[2019.12.08-00.03.42:416][102]LogBlueprintUserMessages: [chessboard_2] 1927
+[2019.12.08-00.03.42:416][102]LogBlueprintUserMessages: [chessboard_2] 1928
+[2019.12.08-00.03.42:417][102]LogBlueprintUserMessages: [chessboard_2] 1929
+[2019.12.08-00.03.42:417][102]LogBlueprintUserMessages: [chessboard_2] 1930
+[2019.12.08-00.03.42:417][102]LogBlueprintUserMessages: [chessboard_2] 1931
+[2019.12.08-00.03.42:417][102]LogBlueprintUserMessages: [chessboard_2] 1932
+[2019.12.08-00.03.42:417][102]LogBlueprintUserMessages: [chessboard_2] 1933
+[2019.12.08-00.03.42:418][102]LogBlueprintUserMessages: [chessboard_2] 1934
+[2019.12.08-00.03.42:418][102]LogBlueprintUserMessages: [chessboard_2] 1935
+[2019.12.08-00.03.42:418][102]LogBlueprintUserMessages: [chessboard_2] 1936
+[2019.12.08-00.03.42:418][102]LogBlueprintUserMessages: [chessboard_2] 1937
+[2019.12.08-00.03.42:419][102]LogBlueprintUserMessages: [chessboard_2] 1938
+[2019.12.08-00.03.42:419][102]LogBlueprintUserMessages: [chessboard_2] 1939
+[2019.12.08-00.03.42:419][102]LogBlueprintUserMessages: [chessboard_2] 1940
+[2019.12.08-00.03.42:419][102]LogBlueprintUserMessages: [chessboard_2] 1941
+[2019.12.08-00.03.42:419][102]LogBlueprintUserMessages: [chessboard_2] 1942
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1943
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1944
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1945
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1946
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1947
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1948
+[2019.12.08-00.03.42:420][102]LogBlueprintUserMessages: [chessboard_2] 1949
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1950
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1951
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1952
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1953
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1954
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1955
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1956
+[2019.12.08-00.03.42:421][102]LogBlueprintUserMessages: [chessboard_2] 1957
+[2019.12.08-00.03.42:422][102]LogBlueprintUserMessages: [chessboard_2] 1958
+[2019.12.08-00.03.42:422][102]LogBlueprintUserMessages: [chessboard_2] 1959
+[2019.12.08-00.03.42:422][102]LogBlueprintUserMessages: [chessboard_2] 1960
+[2019.12.08-00.03.42:422][102]LogBlueprintUserMessages: [chessboard_2] 1961
+[2019.12.08-00.03.42:422][102]LogBlueprintUserMessages: [chessboard_2] 1962
+[2019.12.08-00.03.42:423][102]LogBlueprintUserMessages: [chessboard_2] 1963
+[2019.12.08-00.03.42:423][102]LogBlueprintUserMessages: [chessboard_2] 1964
+[2019.12.08-00.03.42:423][102]LogBlueprintUserMessages: [chessboard_2] 1965
+[2019.12.08-00.03.42:423][102]LogBlueprintUserMessages: [chessboard_2] 1966
+[2019.12.08-00.03.42:424][102]LogBlueprintUserMessages: [chessboard_2] 1967
+[2019.12.08-00.03.42:424][102]LogBlueprintUserMessages: [chessboard_2] 1968
+[2019.12.08-00.03.42:425][102]LogBlueprintUserMessages: [chessboard_2] 1969
+[2019.12.08-00.03.42:425][102]LogBlueprintUserMessages: [chessboard_2] 1970
+[2019.12.08-00.03.42:425][102]LogBlueprintUserMessages: [chessboard_2] 1971
+[2019.12.08-00.03.42:426][102]LogBlueprintUserMessages: [chessboard_2] 1972
+[2019.12.08-00.03.42:426][102]LogBlueprintUserMessages: [chessboard_2] 1973
+[2019.12.08-00.03.42:426][102]LogBlueprintUserMessages: [chessboard_2] 1974
+[2019.12.08-00.03.42:427][102]LogBlueprintUserMessages: [chessboard_2] 1975
+[2019.12.08-00.03.42:427][102]LogBlueprintUserMessages: [chessboard_2] 1976
+[2019.12.08-00.03.42:427][102]LogBlueprintUserMessages: [chessboard_2] 1977
+[2019.12.08-00.03.42:427][102]LogBlueprintUserMessages: [chessboard_2] 1978
+[2019.12.08-00.03.42:428][102]LogBlueprintUserMessages: [chessboard_2] 1979
+[2019.12.08-00.03.42:428][102]LogBlueprintUserMessages: [chessboard_2] 1980
+[2019.12.08-00.03.42:428][102]LogBlueprintUserMessages: [chessboard_2] 1981
+[2019.12.08-00.03.42:428][102]LogBlueprintUserMessages: [chessboard_2] 1982
+[2019.12.08-00.03.42:429][102]LogBlueprintUserMessages: [chessboard_2] 1983
+[2019.12.08-00.03.42:676][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.08-00.03.42:684][102]LogBlueprintUserMessages: [chessboard_C_0] 2368
+[2019.12.08-00.03.42:684][102]LogBlueprintUserMessages: [chessboard_C_0] 2369
+[2019.12.08-00.03.42:684][102]LogBlueprintUserMessages: [chessboard_C_0] 2370
+[2019.12.08-00.03.42:685][102]LogBlueprintUserMessages: [chessboard_C_0] 2371
+[2019.12.08-00.03.42:685][102]LogBlueprintUserMessages: [chessboard_C_0] 2372
+[2019.12.08-00.03.42:685][102]LogBlueprintUserMessages: [chessboard_C_0] 2373
+[2019.12.08-00.03.42:685][102]LogBlueprintUserMessages: [chessboard_C_0] 2374
+[2019.12.08-00.03.42:686][102]LogBlueprintUserMessages: [chessboard_C_0] 2375
+[2019.12.08-00.03.42:686][102]LogBlueprintUserMessages: [chessboard_C_0] 2376
+[2019.12.08-00.03.42:686][102]LogBlueprintUserMessages: [chessboard_C_0] 2377
+[2019.12.08-00.03.42:687][102]LogBlueprintUserMessages: [chessboard_C_0] 2378
+[2019.12.08-00.03.42:687][102]LogBlueprintUserMessages: [chessboard_C_0] 2379
+[2019.12.08-00.03.42:687][102]LogBlueprintUserMessages: [chessboard_C_0] 2380
+[2019.12.08-00.03.42:687][102]LogBlueprintUserMessages: [chessboard_C_0] 2381
+[2019.12.08-00.03.42:687][102]LogBlueprintUserMessages: [chessboard_C_0] 2382
+[2019.12.08-00.03.42:688][102]LogBlueprintUserMessages: [chessboard_C_0] 2383
+[2019.12.08-00.03.42:688][102]LogBlueprintUserMessages: [chessboard_C_0] 2384
+[2019.12.08-00.03.42:688][102]LogBlueprintUserMessages: [chessboard_C_0] 2385
+[2019.12.08-00.03.42:688][102]LogBlueprintUserMessages: [chessboard_C_0] 2386
+[2019.12.08-00.03.42:688][102]LogBlueprintUserMessages: [chessboard_C_0] 2387
+[2019.12.08-00.03.42:689][102]LogBlueprintUserMessages: [chessboard_C_0] 2388
+[2019.12.08-00.03.42:689][102]LogBlueprintUserMessages: [chessboard_C_0] 2389
+[2019.12.08-00.03.42:689][102]LogBlueprintUserMessages: [chessboard_C_0] 2390
+[2019.12.08-00.03.42:689][102]LogBlueprintUserMessages: [chessboard_C_0] 2391
+[2019.12.08-00.03.42:689][102]LogBlueprintUserMessages: [chessboard_C_0] 2392
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2393
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2394
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2395
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2396
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2397
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2398
+[2019.12.08-00.03.42:690][102]LogBlueprintUserMessages: [chessboard_C_0] 2399
+[2019.12.08-00.03.42:691][102]LogBlueprintUserMessages: [chessboard_C_0] 2400
+[2019.12.08-00.03.42:691][102]LogBlueprintUserMessages: [chessboard_C_0] 2401
+[2019.12.08-00.03.42:691][102]LogBlueprintUserMessages: [chessboard_C_0] 2402
+[2019.12.08-00.03.42:691][102]LogBlueprintUserMessages: [chessboard_C_0] 2403
+[2019.12.08-00.03.42:692][102]LogBlueprintUserMessages: [chessboard_C_0] 2404
+[2019.12.08-00.03.42:692][102]LogBlueprintUserMessages: [chessboard_C_0] 2405
+[2019.12.08-00.03.42:692][102]LogBlueprintUserMessages: [chessboard_C_0] 2406
+[2019.12.08-00.03.42:692][102]LogBlueprintUserMessages: [chessboard_C_0] 2407
+[2019.12.08-00.03.42:692][102]LogBlueprintUserMessages: [chessboard_C_0] 2408
+[2019.12.08-00.03.42:693][102]LogBlueprintUserMessages: [chessboard_C_0] 2409
+[2019.12.08-00.03.42:693][102]LogBlueprintUserMessages: [chessboard_C_0] 2410
+[2019.12.08-00.03.42:693][102]LogBlueprintUserMessages: [chessboard_C_0] 2411
+[2019.12.08-00.03.42:693][102]LogBlueprintUserMessages: [chessboard_C_0] 2412
+[2019.12.08-00.03.42:693][102]LogBlueprintUserMessages: [chessboard_C_0] 2413
+[2019.12.08-00.03.42:694][102]LogBlueprintUserMessages: [chessboard_C_0] 2414
+[2019.12.08-00.03.42:694][102]LogBlueprintUserMessages: [chessboard_C_0] 2415
+[2019.12.08-00.03.42:694][102]LogBlueprintUserMessages: [chessboard_C_0] 2416
+[2019.12.08-00.03.42:694][102]LogBlueprintUserMessages: [chessboard_C_0] 2417
+[2019.12.08-00.03.42:695][102]LogBlueprintUserMessages: [chessboard_C_0] 2418
+[2019.12.08-00.03.42:695][102]LogBlueprintUserMessages: [chessboard_C_0] 2419
+[2019.12.08-00.03.42:695][102]LogBlueprintUserMessages: [chessboard_C_0] 2420
+[2019.12.08-00.03.42:696][102]LogBlueprintUserMessages: [chessboard_C_0] 2421
+[2019.12.08-00.03.42:696][102]LogBlueprintUserMessages: [chessboard_C_0] 2422
+[2019.12.08-00.03.42:696][102]LogBlueprintUserMessages: [chessboard_C_0] 2423
+[2019.12.08-00.03.42:696][102]LogBlueprintUserMessages: [chessboard_C_0] 2424
+[2019.12.08-00.03.42:697][102]LogBlueprintUserMessages: [chessboard_C_0] 2425
+[2019.12.08-00.03.42:697][102]LogBlueprintUserMessages: [chessboard_C_0] 2426
+[2019.12.08-00.03.42:697][102]LogBlueprintUserMessages: [chessboard_C_0] 2427
+[2019.12.08-00.03.42:697][102]LogBlueprintUserMessages: [chessboard_C_0] 2428
+[2019.12.08-00.03.42:697][102]LogBlueprintUserMessages: [chessboard_C_0] 2429
+[2019.12.08-00.03.42:698][102]LogBlueprintUserMessages: [chessboard_C_0] 2430
+[2019.12.08-00.03.42:698][102]LogBlueprintUserMessages: [chessboard_C_0] 2431
+[2019.12.08-00.03.42:716][102]LogBlueprintUserMessages: [chessboard_2] 1984
+[2019.12.08-00.03.42:717][102]LogBlueprintUserMessages: [chessboard_2] 1985
+[2019.12.08-00.03.42:717][102]LogBlueprintUserMessages: [chessboard_2] 1986
+[2019.12.08-00.03.42:717][102]LogBlueprintUserMessages: [chessboard_2] 1987
+[2019.12.08-00.03.42:718][102]LogBlueprintUserMessages: [chessboard_2] 1988
+[2019.12.08-00.03.42:719][102]LogBlueprintUserMessages: [chessboard_2] 1989
+[2019.12.08-00.03.42:719][102]LogBlueprintUserMessages: [chessboard_2] 1990
+[2019.12.08-00.03.42:719][102]LogBlueprintUserMessages: [chessboard_2] 1991
+[2019.12.08-00.03.42:719][102]LogBlueprintUserMessages: [chessboard_2] 1992
+[2019.12.08-00.03.42:720][102]LogBlueprintUserMessages: [chessboard_2] 1993
+[2019.12.08-00.03.42:720][102]LogBlueprintUserMessages: [chessboard_2] 1994
+[2019.12.08-00.03.42:720][102]LogBlueprintUserMessages: [chessboard_2] 1995
+[2019.12.08-00.03.42:720][102]LogBlueprintUserMessages: [chessboard_2] 1996
+[2019.12.08-00.03.42:720][102]LogBlueprintUserMessages: [chessboard_2] 1997
+[2019.12.08-00.03.42:721][102]LogBlueprintUserMessages: [chessboard_2] 1998
+[2019.12.08-00.03.42:721][102]LogBlueprintUserMessages: [chessboard_2] 1999
+[2019.12.08-00.03.42:721][102]LogBlueprintUserMessages: [chessboard_2] 2000
+[2019.12.08-00.03.42:721][102]LogBlueprintUserMessages: [chessboard_2] 2001
+[2019.12.08-00.03.42:721][102]LogBlueprintUserMessages: [chessboard_2] 2002
+[2019.12.08-00.03.42:722][102]LogBlueprintUserMessages: [chessboard_2] 2003
+[2019.12.08-00.03.42:722][102]LogBlueprintUserMessages: [chessboard_2] 2004
+[2019.12.08-00.03.42:722][102]LogBlueprintUserMessages: [chessboard_2] 2005
+[2019.12.08-00.03.42:722][102]LogBlueprintUserMessages: [chessboard_2] 2006
+[2019.12.08-00.03.42:722][102]LogBlueprintUserMessages: [chessboard_2] 2007
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2008
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2009
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2010
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2011
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2012
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2013
+[2019.12.08-00.03.42:723][102]LogBlueprintUserMessages: [chessboard_2] 2014
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2015
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2016
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2017
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2018
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2019
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2020
+[2019.12.08-00.03.42:724][102]LogBlueprintUserMessages: [chessboard_2] 2021
+[2019.12.08-00.03.42:725][102]LogBlueprintUserMessages: [chessboard_2] 2022
+[2019.12.08-00.03.42:725][102]LogBlueprintUserMessages: [chessboard_2] 2023
+[2019.12.08-00.03.42:725][102]LogBlueprintUserMessages: [chessboard_2] 2024
+[2019.12.08-00.03.42:725][102]LogBlueprintUserMessages: [chessboard_2] 2025
+[2019.12.08-00.03.42:725][102]LogBlueprintUserMessages: [chessboard_2] 2026
+[2019.12.08-00.03.42:726][102]LogBlueprintUserMessages: [chessboard_2] 2027
+[2019.12.08-00.03.42:726][102]LogBlueprintUserMessages: [chessboard_2] 2028
+[2019.12.08-00.03.42:726][102]LogBlueprintUserMessages: [chessboard_2] 2029
+[2019.12.08-00.03.42:726][102]LogBlueprintUserMessages: [chessboard_2] 2030
+[2019.12.08-00.03.42:726][102]LogBlueprintUserMessages: [chessboard_2] 2031
+[2019.12.08-00.03.42:727][102]LogBlueprintUserMessages: [chessboard_2] 2032
+[2019.12.08-00.03.42:727][102]LogBlueprintUserMessages: [chessboard_2] 2033
+[2019.12.08-00.03.42:727][102]LogBlueprintUserMessages: [chessboard_2] 2034
+[2019.12.08-00.03.42:728][102]LogBlueprintUserMessages: [chessboard_2] 2035
+[2019.12.08-00.03.42:728][102]LogBlueprintUserMessages: [chessboard_2] 2036
+[2019.12.08-00.03.42:728][102]LogBlueprintUserMessages: [chessboard_2] 2037
+[2019.12.08-00.03.42:728][102]LogBlueprintUserMessages: [chessboard_2] 2038
+[2019.12.08-00.03.42:729][102]LogBlueprintUserMessages: [chessboard_2] 2039
+[2019.12.08-00.03.42:729][102]LogBlueprintUserMessages: [chessboard_2] 2040
+[2019.12.08-00.03.42:729][102]LogBlueprintUserMessages: [chessboard_2] 2041
+[2019.12.08-00.03.42:729][102]LogBlueprintUserMessages: [chessboard_2] 2042
+[2019.12.08-00.03.42:729][102]LogBlueprintUserMessages: [chessboard_2] 2043
+[2019.12.08-00.03.42:730][102]LogBlueprintUserMessages: [chessboard_2] 2044
+[2019.12.08-00.03.42:730][102]LogBlueprintUserMessages: [chessboard_2] 2045
+[2019.12.08-00.03.42:730][102]LogBlueprintUserMessages: [chessboard_2] 2046
+[2019.12.08-00.03.42:730][102]LogBlueprintUserMessages: [chessboard_2] 2047
+[2019.12.08-00.03.42:763][102]LogBlueprintUserMessages: [chessboard_C_0] 2432
+[2019.12.08-00.03.42:763][102]LogBlueprintUserMessages: [chessboard_C_0] 2433
+[2019.12.08-00.03.42:763][102]LogBlueprintUserMessages: [chessboard_C_0] 2434
+[2019.12.08-00.03.42:763][102]LogBlueprintUserMessages: [chessboard_C_0] 2435
+[2019.12.08-00.03.42:764][102]LogBlueprintUserMessages: [chessboard_C_0] 2436
+[2019.12.08-00.03.42:764][102]LogBlueprintUserMessages: [chessboard_C_0] 2437
+[2019.12.08-00.03.42:764][102]LogBlueprintUserMessages: [chessboard_C_0] 2438
+[2019.12.08-00.03.42:764][102]LogBlueprintUserMessages: [chessboard_C_0] 2439
+[2019.12.08-00.03.42:764][102]LogBlueprintUserMessages: [chessboard_C_0] 2440
+[2019.12.08-00.03.42:765][102]LogBlueprintUserMessages: [chessboard_C_0] 2441
+[2019.12.08-00.03.42:765][102]LogBlueprintUserMessages: [chessboard_C_0] 2442
+[2019.12.08-00.03.42:765][102]LogBlueprintUserMessages: [chessboard_C_0] 2443
+[2019.12.08-00.03.42:765][102]LogBlueprintUserMessages: [chessboard_C_0] 2444
+[2019.12.08-00.03.42:766][102]LogBlueprintUserMessages: [chessboard_C_0] 2445
+[2019.12.08-00.03.42:766][102]LogBlueprintUserMessages: [chessboard_C_0] 2446
+[2019.12.08-00.03.42:766][102]LogBlueprintUserMessages: [chessboard_C_0] 2447
+[2019.12.08-00.03.42:766][102]LogBlueprintUserMessages: [chessboard_C_0] 2448
+[2019.12.08-00.03.42:766][102]LogBlueprintUserMessages: [chessboard_C_0] 2449
+[2019.12.08-00.03.42:767][102]LogBlueprintUserMessages: [chessboard_C_0] 2450
+[2019.12.08-00.03.42:767][102]LogBlueprintUserMessages: [chessboard_C_0] 2451
+[2019.12.08-00.03.42:767][102]LogBlueprintUserMessages: [chessboard_C_0] 2452
+[2019.12.08-00.03.42:767][102]LogBlueprintUserMessages: [chessboard_C_0] 2453
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2454
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2455
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2456
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2457
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2458
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2459
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2460
+[2019.12.08-00.03.42:768][102]LogBlueprintUserMessages: [chessboard_C_0] 2461
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2462
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2463
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2464
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2465
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2466
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2467
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2468
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2469
+[2019.12.08-00.03.42:769][102]LogBlueprintUserMessages: [chessboard_C_0] 2470
+[2019.12.08-00.03.42:770][102]LogBlueprintUserMessages: [chessboard_C_0] 2471
+[2019.12.08-00.03.42:770][102]LogBlueprintUserMessages: [chessboard_C_0] 2472
+[2019.12.08-00.03.42:770][102]LogBlueprintUserMessages: [chessboard_C_0] 2473
+[2019.12.08-00.03.42:770][102]LogBlueprintUserMessages: [chessboard_C_0] 2474
+[2019.12.08-00.03.42:770][102]LogBlueprintUserMessages: [chessboard_C_0] 2475
+[2019.12.08-00.03.42:771][102]LogBlueprintUserMessages: [chessboard_C_0] 2476
+[2019.12.08-00.03.42:771][102]LogBlueprintUserMessages: [chessboard_C_0] 2477
+[2019.12.08-00.03.42:771][102]LogBlueprintUserMessages: [chessboard_C_0] 2478
+[2019.12.08-00.03.42:771][102]LogBlueprintUserMessages: [chessboard_C_0] 2479
+[2019.12.08-00.03.42:772][102]LogBlueprintUserMessages: [chessboard_C_0] 2480
+[2019.12.08-00.03.42:772][102]LogBlueprintUserMessages: [chessboard_C_0] 2481
+[2019.12.08-00.03.42:772][102]LogBlueprintUserMessages: [chessboard_C_0] 2482
+[2019.12.08-00.03.42:772][102]LogBlueprintUserMessages: [chessboard_C_0] 2483
+[2019.12.08-00.03.42:772][102]LogBlueprintUserMessages: [chessboard_C_0] 2484
+[2019.12.08-00.03.42:773][102]LogBlueprintUserMessages: [chessboard_C_0] 2485
+[2019.12.08-00.03.42:773][102]LogBlueprintUserMessages: [chessboard_C_0] 2486
+[2019.12.08-00.03.42:773][102]LogBlueprintUserMessages: [chessboard_C_0] 2487
+[2019.12.08-00.03.42:773][102]LogBlueprintUserMessages: [chessboard_C_0] 2488
+[2019.12.08-00.03.42:773][102]LogBlueprintUserMessages: [chessboard_C_0] 2489
+[2019.12.08-00.03.42:774][102]LogBlueprintUserMessages: [chessboard_C_0] 2490
+[2019.12.08-00.03.42:774][102]LogBlueprintUserMessages: [chessboard_C_0] 2491
+[2019.12.08-00.03.42:774][102]LogBlueprintUserMessages: [chessboard_C_0] 2492
+[2019.12.08-00.03.42:774][102]LogBlueprintUserMessages: [chessboard_C_0] 2493
+[2019.12.08-00.03.42:774][102]LogBlueprintUserMessages: [chessboard_C_0] 2494
+[2019.12.08-00.03.42:775][102]LogBlueprintUserMessages: [chessboard_C_0] 2495
+[2019.12.08-00.03.42:795][102]LogBlueprintUserMessages: [chessboard_2] 2048
+[2019.12.08-00.03.42:795][102]LogBlueprintUserMessages: [chessboard_2] 2049
+[2019.12.08-00.03.42:796][102]LogBlueprintUserMessages: [chessboard_2] 2050
+[2019.12.08-00.03.42:796][102]LogBlueprintUserMessages: [chessboard_2] 2051
+[2019.12.08-00.03.42:796][102]LogBlueprintUserMessages: [chessboard_2] 2052
+[2019.12.08-00.03.42:796][102]LogBlueprintUserMessages: [chessboard_2] 2053
+[2019.12.08-00.03.42:797][102]LogBlueprintUserMessages: [chessboard_2] 2054
+[2019.12.08-00.03.42:797][102]LogBlueprintUserMessages: [chessboard_2] 2055
+[2019.12.08-00.03.42:797][102]LogBlueprintUserMessages: [chessboard_2] 2056
+[2019.12.08-00.03.42:798][102]LogBlueprintUserMessages: [chessboard_2] 2057
+[2019.12.08-00.03.42:798][102]LogBlueprintUserMessages: [chessboard_2] 2058
+[2019.12.08-00.03.42:798][102]LogBlueprintUserMessages: [chessboard_2] 2059
+[2019.12.08-00.03.42:798][102]LogBlueprintUserMessages: [chessboard_2] 2060
+[2019.12.08-00.03.42:798][102]LogBlueprintUserMessages: [chessboard_2] 2061
+[2019.12.08-00.03.42:799][102]LogBlueprintUserMessages: [chessboard_2] 2062
+[2019.12.08-00.03.42:799][102]LogBlueprintUserMessages: [chessboard_2] 2063
+[2019.12.08-00.03.42:799][102]LogBlueprintUserMessages: [chessboard_2] 2064
+[2019.12.08-00.03.42:799][102]LogBlueprintUserMessages: [chessboard_2] 2065
+[2019.12.08-00.03.42:800][102]LogBlueprintUserMessages: [chessboard_2] 2066
+[2019.12.08-00.03.42:800][102]LogBlueprintUserMessages: [chessboard_2] 2067
+[2019.12.08-00.03.42:800][102]LogBlueprintUserMessages: [chessboard_2] 2068
+[2019.12.08-00.03.42:800][102]LogBlueprintUserMessages: [chessboard_2] 2069
+[2019.12.08-00.03.42:800][102]LogBlueprintUserMessages: [chessboard_2] 2070
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2071
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2072
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2073
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2074
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2075
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2076
+[2019.12.08-00.03.42:801][102]LogBlueprintUserMessages: [chessboard_2] 2077
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2078
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2079
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2080
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2081
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2082
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2083
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2084
+[2019.12.08-00.03.42:802][102]LogBlueprintUserMessages: [chessboard_2] 2085
+[2019.12.08-00.03.42:803][102]LogBlueprintUserMessages: [chessboard_2] 2086
+[2019.12.08-00.03.42:803][102]LogBlueprintUserMessages: [chessboard_2] 2087
+[2019.12.08-00.03.42:803][102]LogBlueprintUserMessages: [chessboard_2] 2088
+[2019.12.08-00.03.42:803][102]LogBlueprintUserMessages: [chessboard_2] 2089
+[2019.12.08-00.03.42:803][102]LogBlueprintUserMessages: [chessboard_2] 2090
+[2019.12.08-00.03.42:803][102]LogBlueprintUserMessages: [chessboard_2] 2091
+[2019.12.08-00.03.42:804][102]LogBlueprintUserMessages: [chessboard_2] 2092
+[2019.12.08-00.03.42:804][102]LogBlueprintUserMessages: [chessboard_2] 2093
+[2019.12.08-00.03.42:804][102]LogBlueprintUserMessages: [chessboard_2] 2094
+[2019.12.08-00.03.42:804][102]LogBlueprintUserMessages: [chessboard_2] 2095
+[2019.12.08-00.03.42:805][102]LogBlueprintUserMessages: [chessboard_2] 2096
+[2019.12.08-00.03.42:805][102]LogBlueprintUserMessages: [chessboard_2] 2097
+[2019.12.08-00.03.42:805][102]LogBlueprintUserMessages: [chessboard_2] 2098
+[2019.12.08-00.03.42:805][102]LogBlueprintUserMessages: [chessboard_2] 2099
+[2019.12.08-00.03.42:805][102]LogBlueprintUserMessages: [chessboard_2] 2100
+[2019.12.08-00.03.42:806][102]LogBlueprintUserMessages: [chessboard_2] 2101
+[2019.12.08-00.03.42:806][102]LogBlueprintUserMessages: [chessboard_2] 2102
+[2019.12.08-00.03.42:806][102]LogBlueprintUserMessages: [chessboard_2] 2103
+[2019.12.08-00.03.42:806][102]LogBlueprintUserMessages: [chessboard_2] 2104
+[2019.12.08-00.03.42:807][102]LogBlueprintUserMessages: [chessboard_2] 2105
+[2019.12.08-00.03.42:807][102]LogBlueprintUserMessages: [chessboard_2] 2106
+[2019.12.08-00.03.42:807][102]LogBlueprintUserMessages: [chessboard_2] 2107
+[2019.12.08-00.03.42:807][102]LogBlueprintUserMessages: [chessboard_2] 2108
+[2019.12.08-00.03.42:808][102]LogBlueprintUserMessages: [chessboard_2] 2109
+[2019.12.08-00.03.42:808][102]LogBlueprintUserMessages: [chessboard_2] 2110
+[2019.12.08-00.03.42:808][102]LogBlueprintUserMessages: [chessboard_2] 2111
+[2019.12.08-00.04.14:773][885]BlueprintLog: New page: Compile chessboard
+[2019.12.08-00.04.15:088][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.12.08-00.04.20:853][554]LogEditorViewport: Clicking on Actor (LMB): chessboard_C (chessboard)
+[2019.12.08-00.04.27:242][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.08.07:603][643]BlueprintLog: New page: Compile chessboard
+[2019.12.08-00.08.07:953][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.12.08-00.08.10:723][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.10:728][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.10:734][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.10:739][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.10:744][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.10:749][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.10:754][953]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:019C
+[2019.12.08-00.08.36:595][953]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	chessboard_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.chessboard_2
+	Function /Game/chessboard.chessboard_C:Reset Map:0254
+[2019.12.08-00.08.36:595][953]PIE: Error: Infinite loop detected. Blueprint:  chessboard Function:  Sequence Call Stack:  Show
